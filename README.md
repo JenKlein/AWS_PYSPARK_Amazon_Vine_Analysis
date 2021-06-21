@@ -32,7 +32,7 @@ The purpose of this project was to analyze the Amazon reviews written by members
 ### Paid Reviews with 5 star ratings
 <img width="656" alt="Screen Shot 2021-06-20 at 9 18 17 PM" src="https://user-images.githubusercontent.com/69849998/122694956-0e39aa00-d20d-11eb-8a40-16c8908a5abe.png">
 
-### Paid Reviews with 5 star ratings
+### Unpaid Reviews with 5 star ratings
 <img width="655" alt="Screen Shot 2021-06-20 at 9 19 55 PM" src="https://user-images.githubusercontent.com/69849998/122695016-44772980-d20d-11eb-9a94-67767486820a.png">
 
 #### Bias of Vine Reviews
