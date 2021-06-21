@@ -27,15 +27,19 @@ The purpose of this project was to analyze the Amazon reviews written by members
 ![Screen Shot 2021-06-19 at 1 35 25 PM](https://user-images.githubusercontent.com/69849998/122683374-ae231380-d1cc-11eb-8124-7da3465d2dc5.png)
 
 
-## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Summary
 
-### Bias of Vine Reviews
+### Paid Reviews with 5 star ratings
+<img width="656" alt="Screen Shot 2021-06-20 at 9 18 17 PM" src="https://user-images.githubusercontent.com/69849998/122694956-0e39aa00-d20d-11eb-8a40-16c8908a5abe.png">
 
-In total, there were 248 vine reviews, and 17,514 non-vine reviews. Of these reviews, those that had 5-star ratings there were 102 (1.94%) vine reviews, and 5,154 (98.06%) non-vine reviews. Of all the total rating scores, those with 5-star paid ratings made up 0.6%, and those with 5-star unpaid ratings made up 29%. 
+### Paid Reviews with 5 star ratings
+<img width="655" alt="Screen Shot 2021-06-20 at 9 19 55 PM" src="https://user-images.githubusercontent.com/69849998/122695016-44772980-d20d-11eb-9a94-67767486820a.png">
+
+#### Bias of Vine Reviews
+In total, there were 248 vine (paid) reviews, and 17,514 non-vine (unpaid) reviews. Of these reviews, those that had 5-star ratings there were 102 (1.94%) vine reviews, and 5,154 (98.06%) non-vine reviews. Of all the total rating scores, those with 5-star paid ratings made up 0.6%, and those with 5-star unpaid ratings made up 29%. 
+
+With 98.06% of 5 star reviews from unpaid customers, this shows that there was no positivity bias in the 5 stars review. In other words, the fact that people were paid did not bias the reviews. The fact that the overwhelming majority of reviews came from unpaid customers demonstrates that people were so satisfied with their software products that they did not require payment to leave a 5 star review. 
+
+Since the 5star unpaid reviews made up 29% of all of the reviews, it would be interesting to perform the same percentage calculations for each star rating to see the distribution of the reviews. 
 
 
-## positivity bias
-There is insufficient evidence to determine if there is bias towards reviews written as part of the Vine program. Having a paid Vine reivew makes a difference in the percentage of 5 star reviews. 
-In order to determine if having a paid vine review makes a difference in the percentage of 5 star reviews, more investigation would be necessary to how heavily the vine ratings are weighted. 
-
-## one additional analysis that could be done
