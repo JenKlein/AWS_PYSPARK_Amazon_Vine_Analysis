@@ -1,13 +1,13 @@
-# AWS_PYSPARK_Amazon_Vine_Analysis
+# AWS_PySpark_Amazon_Vine_Analysis
 
 
 ## Overview
 The purpose of this project was to analyze the Amazon reviews written by members of the paid Amazon Vine program on Software products. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products - in this project we're analyzing reviews on software products. The Software review data was extracted from AWS, transformed in Google Colab with PySpark and loaded in to pgAdmin.
 
 
-### Resources
+### Tools
 * PySpark
-* Postgres SQL
+* PostgreSQL
 * AWS
 * Google Colab
 
